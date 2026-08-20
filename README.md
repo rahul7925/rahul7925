@@ -34,11 +34,24 @@
 ### [SafeMap AI](#)
 > AI-powered crime intelligence platform with interactive safety maps, AI-generated safety insights, community reporting, and analytics.
 
-### [WalletIQ](#)
+### [WalletIQ](https://github.com/rahul7925/WalletIQ)
 > AI-powered personal finance manager with budgeting, expense tracking, analytics, and intelligent financial insights.
 
 ### [AI Ticket Translator](#)
 > AI-powered multilingual customer support platform with intelligent translation and response assistance.
+
+<br>
+
+## 📊 Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul7925&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=rahul7925&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 <br>
 
@@ -57,8 +70,8 @@
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://YOUR_PORTFOLIO.com">Portfolio</a> &nbsp;•&nbsp;
+  <a href="www.linkedin.com/in/rahul-s-975999320">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="(https://rahul7925.github.io/Portfolio/)">Portfolio</a> &nbsp;•&nbsp;
   <a href="mailto:sivanatham2020@gmail.com">Email</a>
 </p>
 
