@@ -82,7 +82,7 @@
 
 <p align="left">
   <a href="www.linkedin.com/in/rahul-s-975999320">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="(https://rahul7925.github.io/Portfolio/)">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://rahul7925.github.io/Portfolio/">Portfolio</a> &nbsp;•&nbsp;
   <a href="mailto:sivanatham2020@gmail.com">Email</a>
 </p>
 
