@@ -45,14 +45,25 @@
 ## 📊 Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul7925&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=rahul7925&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=rahul7925&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com/?user=rahul7925&theme=github-dark&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
 </p>
-
 <br>
 
 ## 📊 Analytics
