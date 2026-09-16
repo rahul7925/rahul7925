@@ -124,7 +124,21 @@ alt="Top Languages" />
 
 <div align="left">
 
-[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL) • [GitHub](https://github.com/YOUR_USERNAME)
+<a href="https://www.linkedin.com/in/rahul-s-975999320">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://rahul7925.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:sivanatham2020@gmail.com">
+  <img src="https://img.shields.io/badge/Email-374151?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/rahul7925">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
