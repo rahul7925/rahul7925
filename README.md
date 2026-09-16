@@ -2,92 +2,131 @@
 
 # Rahul S
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Developer;Software+Engineer&color=8B949E" alt="Roles" />
+### Full Stack Developer • AI Enthusiast
+
+Building modern, scalable web applications with **JavaScript, React, Node.js & AI**.
+
+</div>
+
+<br>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Information Technology
+- 💻 Building real-world full-stack applications
+- 🤖 Exploring AI, backend engineering & scalable systems
+- 📍 Tamil Nadu, India
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark" alt="Frontend technologies" />
 </p>
+
+**Backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Backend technologies" />
+</p>
+
+**Database & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker&theme=dark" alt="Database and development tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛡 SafeMap AI
+
+AI-powered safety intelligence platform featuring interactive crime heatmaps, location insights, safety analysis, and community reporting.
+
+**Stack**
+
+`React` `Node.js` `MongoDB` `Python`
+
+[Repository](YOUR_SAFEMAP_REPO) • [Live Demo](YOUR_SAFEMAP_DEMO)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💰 WalletIQ
+
+AI-powered personal finance manager with expense tracking, budgeting, analytics, and intelligent financial insights.
+
+**Stack**
+
+`React` `Python` `Flask` `SQLite`
+
+[Repository](YOUR_WALLETIQ_REPO) • [Live Demo](YOUR_WALLETIQ_DEMO)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌍 AI Ticket Translator
+
+Multilingual customer support platform with AI-powered ticket translation and intelligent response assistance.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Flask`
+
+[Repository](YOUR_TICKET_REPO) • [Live Demo](YOUR_TICKET_DEMO)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+alt="GitHub Stats" />
+
+<img height="165"
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"
+alt="GitHub Streak" />
+
+<br><br>
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+alt="Top Languages" />
 
 </div>
 
 ---
 
-<br>
-
-## 👨‍💻 About
-
-- 🎓 **Education:** B.Tech Information Technology
-- 📍 **Location:** Tamil Nadu, India
-- 🎯 **Objective:** Seeking Software Engineer, Full Stack Developer, or AI Developer opportunities.
-- 🚀 **Focus:** Building modern, scalable applications with clean architecture.
-
-<br>
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,sql,git,github,docker&theme=dark" alt="Tech Stack" />
-</p>
-
-<br>
-
-## 🚀 Featured Projects
-
-### [SafeMap AI](#)
-> AI-powered crime intelligence platform with interactive safety maps, AI-generated safety insights, community reporting, and analytics.
-
-### [WalletIQ](https://github.com/rahul7925/WalletIQ)
-> AI-powered personal finance manager with budgeting, expense tracking, analytics, and intelligent financial insights.
-
-### [AI Ticket Translator](#)
-> AI-powered multilingual customer support platform with intelligent translation and response assistance.
-
-<br>
-
-## 📊 Analytics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=rahul7925&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com/?user=rahul7925&theme=github-dark&hide_border=true&background=0D1117"
-    alt="GitHub Streak"
-  />
-</p>
-<br>
-
-## 📊 Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rahul7925&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul7925&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<br>
-
 ## 🌐 Connect
 
-<p align="left">
-  <a href="www.linkedin.com/in/rahul-s-975999320">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://rahul7925.github.io/Portfolio/">Portfolio</a> &nbsp;•&nbsp;
-  <a href="mailto:sivanatham2020@gmail.com">Email</a>
-</p>
+<div align="left">
+
+[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL) • [GitHub](https://github.com/YOUR_USERNAME)
+
+</div>
 
 <br>
 
 <div align="center">
-  <p><i>Design inspired by simplicity and clarity.</i></p>
+
+`Building software with purpose.`
+
 </div>
