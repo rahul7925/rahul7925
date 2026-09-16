@@ -57,8 +57,12 @@ scalable and user-centric applications.
      alt="Git, GitHub, Docker, Python" />
 </p>
 
-<table>
+
+
+## 🚀 Featured Projects
+
 <tr>
+
 
 <td width="33%" height="280" valign="top">
 
@@ -140,6 +144,7 @@ and intelligent response assistance.
 
 </tr>
 </table>
+
 ### GitHub Analytics
 
 <div align="center">
