@@ -1,85 +1,142 @@
 <div align="center">
 
+<img src="YOUR_PROFILE_IMAGE_URL"
+     width="150"
+     height="150"
+     style="border-radius:50%;"
+     alt="Rahul S" />
+
+<br><br>
+
+### H I , &nbsp; I ' M
+
 # Rahul S
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI+Enthusiast;Systems+Builder" alt="Typing Animation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Network+Engineer&delete=true&repeat=true"
+  alt="Typing Animation"
+/>
 
-<p align="center">
-  Building modern, scalable web applications with JavaScript, React, Node.js and AI.
-</p>
+<br>
+
+Building modern, scalable web applications with **JavaScript, React, Node.js & AI.**
+
+<br>
 
 </div>
 
 ---
 
-### About
+<div align="center">
 
-- **Focus** — Engineering reliable, high-performance web systems and integrating artificial intelligence.
-- **Education** — B.Tech in Information Technology.
-- **Core Interests** — Full-stack architecture, backend engineering, and scalable data systems.
-- **Location** — Tamil Nadu, India.
+| 🎓 **B.Tech IT** | 📍 **Tamil Nadu, India** | 💻 **Open to Opportunities** | 🤝 **Let's Connect** |
+|:---:|:---:|:---:|:---:|
+| Information Technology | India | Software Engineering | Always open to collaborate |
 
----
+</div>
 
-### Tech Stack
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Frontend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind&theme=dark" alt="React, JavaScript, TypeScript, Tailwind CSS" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>Backend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Node.js, Express, Python" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Database</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB, SQL" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>Tools & Cloud</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Git, GitHub, Docker" />
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer & AI Enthusiast** focused on building practical,
+scalable and user-centric applications.
+
+- 🎓 B.Tech in Information Technology
+- 🚀 Building real-world full-stack applications
+- 🤖 Exploring AI, ML and intelligent systems
+- ⚙️ Interested in backend engineering and scalable architecture
 
 ---
 
-### Featured Projects
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark"
+     alt="JavaScript, TypeScript, React, Tailwind CSS" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark"
+     alt="Node.js, Express, Python" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker&theme=dark"
+     alt="MongoDB, MySQL, Git, GitHub, Docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="33.3%" valign="top">
-      <h4>SafeMap AI</h4>
-      <p>AI-powered safety intelligence platform featuring interactive crime heatmaps, real-time safety insights, community reporting, and location intelligence.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Python</code></p>
-      <p>
-        <a href="https://github.com/rahul7925/SafeMap-AI"><strong>Repository →</strong></a> &nbsp;•&nbsp; 
-        <a href="https://github.com/rahul7925"><strong>Live Demo ↗</strong></a>
-      </p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>WalletIQ</h4>
-      <p>AI-powered personal finance manager with automated expense tracking, predictive budgeting, actionable spending analytics, and intelligent insights.</p>
-      <p><code>React</code> <code>Python</code> <code>Flask</code> <code>SQLite</code></p>
-      <p>
-        <a href="https://github.com/rahul7925/WalletIQ"><strong>Repository →</strong></a> &nbsp;•&nbsp; 
-        <a href="https://walletiq-vert.vercel.app"><strong>Live Demo ↗</strong></a>
-      </p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>AI Ticket Translator</h4>
-      <p>Multilingual customer support platform with AI-driven ticket translation and context-aware intelligent response assistance.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Flask</code></p>
-      <p>
-        <a href="https://github.com/rahul7925/AI-Ticket-Translator"><strong>Repository →</strong></a> &nbsp;•&nbsp; 
-        <a href="https://github.com/rahul7925"><strong>Live Demo ↗</strong></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🛡 SafeMap AI</h3>
+
+AI-powered safety intelligence platform featuring interactive crime
+heatmaps, location insights, safety analysis and community reporting.
+
+<br>
+
+`React` `Node.js` `MongoDB` `Python`
+
+<br><br>
+
+<a href="YOUR_SAFEMAP_REPO">Repository</a>
+&nbsp; • &nbsp;
+<a href="YOUR_SAFEMAP_DEMO">Live Demo</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>💰 WalletIQ</h3>
+
+AI-powered personal finance manager with expense tracking, budgeting,
+analytics and intelligent financial insights.
+
+<br>
+
+`React` `Python` `Flask` `SQLite`
+
+<br><br>
+
+<a href="YOUR_WALLETIQ_REPO">Repository</a>
+&nbsp; • &nbsp;
+<a href="YOUR_WALLETIQ_DEMO">Live Demo</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🌍 AI Ticket Translator</h3>
+
+Multilingual customer support platform with AI-powered ticket translation
+and intelligent response assistance.
+
+<br>
+
+`HTML` `CSS` `JavaScript` `Flask`
+
+<br><br>
+
+<a href="YOUR_TICKET_REPO">Repository</a>
+&nbsp; • &nbsp;
+<a href="YOUR_TICKET_DEMO">Live Demo</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
