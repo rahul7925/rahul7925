@@ -2,7 +2,12 @@
 
 # Rahul S
 
-### Full Stack Developer • AI Enthusiast
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Network+Engineer&delete=true&repeat=true"
+  alt="Typing Animation"
+/>
+
+<br>
 
 Building modern, scalable web applications with **JavaScript, React, Node.js & AI**.
 
