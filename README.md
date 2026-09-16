@@ -64,53 +64,51 @@ scalable and user-centric applications.
 
 <td width="33%" valign="top">
 
-<h3>🛡 SafeMap AI</h3>
+<h3>🛡️ SafeMap AI</h3>
 
+<p>
 AI-powered safety intelligence platform featuring interactive crime
 heatmaps, location insights, safety analysis and community reporting.
+</p>
 
-<br>
+<p>
+<code>React</code>
+<code>Node.js</code>
+<code>MongoDB</code>
+<code>Python</code>
+</p>
 
-`React` `Node.js` `MongoDB` `Python`
-
-<br><br>
-
-<a href="YOUR_SAFEMAP_REPO">Repository</a>
+<p style="white-space: nowrap;">
+<a href="YOUR_SAFEMAP_REPOSITORY_URL">Repository</a>
 &nbsp; • &nbsp;
-<a href="YOUR_SAFEMAP_DEMO">Live Demo</a>
+<a href="YOUR_SAFEMAP_LIVE_DEMO_URL">Live Demo</a>
+</p>
 
 </td>
 
 <td width="33%" valign="top">
 
 <h3>
-  💰
-  <a href="https://github.com/rahul7925/WalletIQ">
-    WalletIQ
-  </a>
+💰 <a href="https://github.com/rahul7925/WalletIQ">WalletIQ</a>
 </h3>
 
 <p>
-  AI-powered personal finance manager with expense tracking,
-  budgeting, analytics and intelligent financial insights.
+AI-powered personal finance manager with expense tracking, budgeting,
+analytics and intelligent financial insights.
 </p>
 
 <p>
-  <code>React</code>
-  <code>Python</code>
-  <code>Flask</code>
-  <code>SQLite</code>
+<code>React</code>
+<code>Python</code>
+<code>Flask</code>
+<code>SQLite</code>
 </p>
 
-<br>
 <p style="white-space: nowrap;">
-<a href="https://github.com/rahul7925/WalletIQ">
-  Repository
-</a>
+<a href="https://github.com/rahul7925/WalletIQ">Repository</a>
 &nbsp; • &nbsp;
-<a href="https://walletiq-vert.vercel.app">
-  Live Demo
-</a>
+<a href="https://walletiq-vert.vercel.app">Live Demo</a>
+</p>
 
 </td>
 
@@ -118,25 +116,28 @@ heatmaps, location insights, safety analysis and community reporting.
 
 <h3>🌍 AI Ticket Translator</h3>
 
+<p>
 Multilingual customer support platform with AI-powered ticket translation
 and intelligent response assistance.
+</p>
 
-<br>
+<p>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>Flask</code>
+</p>
 
-`HTML` `CSS` `JavaScript` `Flask`
-
-<br><br>
-
-<a href="YOUR_TICKET_REPO">Repository</a>
+<p style="white-space: nowrap;">
+<a href="YOUR_TICKET_REPOSITORY_URL">Repository</a>
 &nbsp; • &nbsp;
-<a href="YOUR_TICKET_DEMO">Live Demo</a>
+<a href="YOUR_TICKET_LIVE_DEMO_URL">Live Demo</a>
+</p>
 
 </td>
 
 </tr>
 </table>
-
----
 
 ### GitHub Analytics
 
