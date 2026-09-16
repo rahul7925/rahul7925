@@ -103,13 +103,11 @@ heatmaps, location insights, safety analysis and community reporting.
 </p>
 
 <br>
-
+<p style="white-space: nowrap;">
 <a href="https://github.com/rahul7925/WalletIQ">
   Repository
 </a>
-
 &nbsp; • &nbsp;
-
 <a href="https://walletiq-vert.vercel.app">
   Live Demo
 </a>
