@@ -83,20 +83,36 @@ heatmaps, location insights, safety analysis and community reporting.
 
 <td width="33%" valign="top">
 
-<h3>💰 WalletIQ</h3>
+<h3>
+  💰
+  <a href="https://github.com/rahul7925/WalletIQ">
+    WalletIQ
+  </a>
+</h3>
 
-AI-powered personal finance manager with expense tracking, budgeting,
-analytics and intelligent financial insights.
+<p>
+  AI-powered personal finance manager with expense tracking,
+  budgeting, analytics and intelligent financial insights.
+</p>
+
+<p>
+  <code>React</code>
+  <code>Python</code>
+  <code>Flask</code>
+  <code>SQLite</code>
+</p>
 
 <br>
 
-`React` `Python` `Flask` `SQLite`
+<a href="https://github.com/rahul7925/WalletIQ">
+  Repository
+</a>
 
-<br><br>
-
-<a href="YOUR_WALLETIQ_REPO">Repository</a>
 &nbsp; • &nbsp;
-<a href="YOUR_WALLETIQ_DEMO">Live Demo</a>
+
+<a href="https://walletiq-vert.vercel.app">
+  Live Demo
+</a>
 
 </td>
 
