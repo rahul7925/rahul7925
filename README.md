@@ -98,23 +98,29 @@ Multilingual customer support platform with AI-powered ticket translation and in
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-alt="GitHub Stats" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rahul7925&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+  height="165"
+  alt="GitHub Stats"
+/>
 
-<img height="165"
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"
-alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=rahul7925&theme=github-dark&hide_border=true"
+  height="165"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-alt="Top Languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+  height="165"
+  alt="Top Languages"
+/>
 
 </div>
 
