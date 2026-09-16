@@ -103,12 +103,6 @@ Multilingual customer support platform with AI-powered ticket translation and in
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=rahul7925&show_icons=true&hide_border=true&theme=github_dark"
-  alt="GitHub Stats"
-  height="165"
-/>
-
-<img
   src="https://streak-stats.demolab.com?user=rahul7925&theme=github-dark&hide_border=true"
   alt="GitHub Streak"
   height="165"
