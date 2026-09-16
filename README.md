@@ -17,8 +17,6 @@ Building modern, scalable web applications with **JavaScript, React, Node.js & A
 
 ---
 
-<div align="center">
-
 
 ## 👨‍💻 About Me
 
