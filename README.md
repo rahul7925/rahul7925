@@ -117,7 +117,7 @@ Multilingual customer support platform with AI-powered ticket translation and in
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
   alt="Top Languages"
   height="165"
 />
