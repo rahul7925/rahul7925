@@ -61,10 +61,12 @@ scalable and user-centric applications.
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
 
-<td width="33%" height="280" valign="top">
+<td width="33%" height="300" valign="top">
 
 <h3>🛡️ SafeMap AI</h3>
 
@@ -80,15 +82,17 @@ heatmaps, location insights, safety analysis and community reporting.
 <code>Python</code>
 </p>
 
-<br><br>
+<br><br><br>
 
+<p style="white-space: nowrap;">
 <a href="YOUR_SAFEMAP_REPOSITORY_URL">Repository</a>
 &nbsp; • &nbsp;
 <a href="YOUR_SAFEMAP_LIVE_DEMO_URL">Live Demo</a>
+</p>
 
 </td>
 
-<td width="33%" height="280" valign="top">
+<td width="33%" height="300" valign="top">
 
 <h3>💰 <a href="https://github.com/rahul7925/WalletIQ">WalletIQ</a></h3>
 
@@ -104,15 +108,17 @@ budgeting, analytics and intelligent financial insights.
 <code>SQLite</code>
 </p>
 
-<br><br>
+<br><br><br>
 
+<p style="white-space: nowrap;">
 <a href="https://github.com/rahul7925/WalletIQ">Repository</a>
 &nbsp; • &nbsp;
 <a href="https://walletiq-vert.vercel.app">Live Demo</a>
+</p>
 
 </td>
 
-<td width="33%" height="280" valign="top">
+<td width="33%" height="300" valign="top">
 
 <h3>🌍 AI Ticket Translator</h3>
 
@@ -128,17 +134,18 @@ translation and intelligent response assistance.
 <code>Flask</code>
 </p>
 
-<br><br>
+<br><br><br>
 
+<p style="white-space: nowrap;">
 <a href="YOUR_TICKET_REPOSITORY_URL">Repository</a>
 &nbsp; • &nbsp;
 <a href="YOUR_TICKET_LIVE_DEMO_URL">Live Demo</a>
+</p>
 
 </td>
 
 </tr>
 </table>
-
 ### GitHub Analytics
 
 <div align="center">
