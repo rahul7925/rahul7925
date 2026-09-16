@@ -69,8 +69,8 @@ scalable and user-centric applications.
 <h3>🛡️ SafeMap AI</h3>
 
 <p>
-AI-powered safety intelligence platform featuring interactive crime
-heatmaps, location insights, safety analysis and community reporting.
+AI-powered safety intelligence platform featuring interactive crime heatmaps,
+location insights, safety analysis and community reporting.
 </p>
 
 <p>
@@ -121,8 +121,8 @@ budgeting, analytics and intelligent financial insights.
 <h3>🌍 AI Ticket Translator</h3>
 
 <p>
-Multilingual customer support platform with AI-powered ticket
-translation and intelligent response assistance.
+Multilingual customer support platform with AI-powered ticket translation
+and intelligent response assistance.
 </p>
 
 <p>
@@ -144,7 +144,6 @@ translation and intelligent response assistance.
 
 </tr>
 </table>
-
 
 ### GitHub Analytics
 
