@@ -31,30 +31,31 @@ scalable and user-centric applications.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark"
-     alt="JavaScript, TypeScript, React, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark"
+     alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS" />
 </p>
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark"
-     alt="Node.js, Express, Python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java&theme=dark"
+     alt="Node.js, Express, Python, Flask, Java" />
 </p>
 
-### Database & Tools
-
+### Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker&theme=dark"
-     alt="MongoDB, MySQL, Git, GitHub, Docker" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark"
+     alt="MongoDB, MySQL, SQLite, PostgreSQL" />
 </p>
 
----
+### Tools & AI
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,python&theme=dark"
+     alt="Git, GitHub, Docker, Python" />
+</p>
 
 ## 🚀 Featured Projects
 
