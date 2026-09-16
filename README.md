@@ -1,29 +1,19 @@
 <div align="center">
 
-<img src="YOUR_PROFILE_IMAGE_URL"
-     width="150"
-     height="150"
-     style="border-radius:50%;"
-     alt="Rahul S" />
-
-<br><br>
-
-### H I , &nbsp; I ' M
-
 # Rahul S
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Network+Engineer&delete=true&repeat=true"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=6B7280&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Network+Engineer&delete=true&repeat=true"
   alt="Typing Animation"
 />
 
 <br>
 
-Building modern, scalable web applications with **JavaScript, React, Node.js & AI.**
-
-<br>
+Building modern, scalable web applications with **JavaScript, React, Node.js & AI**.
 
 </div>
+
+<br>
 
 ---
 
