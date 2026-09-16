@@ -61,8 +61,6 @@ scalable and user-centric applications.
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 
@@ -146,6 +144,8 @@ translation and intelligent response assistance.
 
 </tr>
 </table>
+
+
 ### GitHub Analytics
 
 <div align="center">
