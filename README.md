@@ -19,13 +19,6 @@ Building modern, scalable web applications with **JavaScript, React, Node.js & A
 
 <div align="center">
 
-| 🎓 **B.Tech IT** | 📍 **Tamil Nadu, India** | 💻 **Open to Opportunities** | 🤝 **Let's Connect** |
-|:---:|:---:|:---:|:---:|
-| Information Technology | India | Software Engineering | Always open to collaborate |
-
-</div>
-
-<br>
 
 ## 👨‍💻 About Me
 
