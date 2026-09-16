@@ -2,150 +2,126 @@
 
 # Rahul S
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=6B7280&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Network+Engineer&delete=true&repeat=true"
-  alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI+Enthusiast;Systems+Builder" alt="Typing Animation" />
 
-<br>
-
-Building modern, scalable web applications with **JavaScript, React, Node.js & AI**.
+<p align="center">
+  Building modern, scalable web applications with JavaScript, React, Node.js and AI.
+</p>
 
 </div>
 
-<br>
+---
+
+### About
+
+- **Focus** — Engineering reliable, high-performance web systems and integrating artificial intelligence.
+- **Education** — B.Tech in Information Technology.
+- **Core Interests** — Full-stack architecture, backend engineering, and scalable data systems.
+- **Location** — Tamil Nadu, India.
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Information Technology
-- 💻 Building real-world full-stack applications
-- 🤖 Exploring AI, backend engineering & scalable systems
-- 📍 Tamil Nadu, India
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark" alt="Frontend technologies" />
-</p>
-
-**Backend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Backend technologies" />
-</p>
-
-**Database & Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker&theme=dark" alt="Database and development tools" />
-</p>
-
----
-
-## 🚀 Featured Projects
+### Tech Stack
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-### 🛡 SafeMap AI
-
-AI-powered safety intelligence platform featuring interactive crime heatmaps, location insights, safety analysis, and community reporting.
-
-**Stack**
-
-`React` `Node.js` `MongoDB` `Python`
-
-[Repository](YOUR_SAFEMAP_REPO) • [Live Demo](YOUR_SAFEMAP_DEMO)
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💰 WalletIQ
-
-AI-powered personal finance manager with expense tracking, budgeting, analytics, and intelligent financial insights.
-
-**Stack**
-
-`React` `Python` `Flask` `SQLite`
-
-[Repository](YOUR_WALLETIQ_REPO) • [Live Demo](YOUR_WALLETIQ_DEMO)
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌍 AI Ticket Translator
-
-Multilingual customer support platform with AI-powered ticket translation and intelligent response assistance.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `Flask`
-
-[Repository](YOUR_TICKET_REPO) • [Live Demo](YOUR_TICKET_DEMO)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind&theme=dark" alt="React, JavaScript, TypeScript, Tailwind CSS" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Node.js, Express, Python" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Database</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB, SQL" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Tools & Cloud</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Git, GitHub, Docker" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>SafeMap AI</h4>
+      <p>AI-powered safety intelligence platform featuring interactive crime heatmaps, real-time safety insights, community reporting, and location intelligence.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Python</code></p>
+      <p>
+        <a href="https://github.com/rahul7925/SafeMap-AI"><strong>Repository →</strong></a> &nbsp;•&nbsp; 
+        <a href="https://github.com/rahul7925"><strong>Live Demo ↗</strong></a>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>WalletIQ</h4>
+      <p>AI-powered personal finance manager with automated expense tracking, predictive budgeting, actionable spending analytics, and intelligent insights.</p>
+      <p><code>React</code> <code>Python</code> <code>Flask</code> <code>SQLite</code></p>
+      <p>
+        <a href="https://github.com/rahul7925/WalletIQ"><strong>Repository →</strong></a> &nbsp;•&nbsp; 
+        <a href="https://walletiq-vert.vercel.app"><strong>Live Demo ↗</strong></a>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>AI Ticket Translator</h4>
+      <p>Multilingual customer support platform with AI-driven ticket translation and context-aware intelligent response assistance.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Flask</code></p>
+      <p>
+        <a href="https://github.com/rahul7925/AI-Ticket-Translator"><strong>Repository →</strong></a> &nbsp;•&nbsp; 
+        <a href="https://github.com/rahul7925"><strong>Live Demo ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Analytics
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=rahul7925&theme=github-dark&hide_border=true"
-  alt="GitHub Streak"
-  height="165"
-/>
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=rahul7925&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=rahul7925&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7925&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  alt="Top Languages"
-  height="165"
-/>
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rahul7925&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🌐 Connect
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/rahul-s-975999320">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://rahul7925.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:sivanatham2020@gmail.com">
-  <img src="https://img.shields.io/badge/Email-374151?style=flat&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/rahul7925">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<br>
+### Connect
 
 <div align="center">
 
-`Building software with purpose.`
+<a href="https://www.linkedin.com/in/rahul-s-975999320">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://rahul7925.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/rahul7925">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:sivanatham2020@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<sub>Building software with purpose. &bull; &copy; Rahul S</sub>
 
 </div>
