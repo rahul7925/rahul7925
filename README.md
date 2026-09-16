@@ -63,6 +63,7 @@ scalable and user-centric applications.
 
 <table>
 <tr>
+
 <td width="33%" height="280" valign="top">
 
 <h3>🛡️ SafeMap AI</h3>
@@ -79,13 +80,11 @@ heatmaps, location insights, safety analysis and community reporting.
 <code>Python</code>
 </p>
 
-<br>
+<br><br>
 
-<p style="white-space: nowrap;">
 <a href="YOUR_SAFEMAP_REPOSITORY_URL">Repository</a>
 &nbsp; • &nbsp;
 <a href="YOUR_SAFEMAP_LIVE_DEMO_URL">Live Demo</a>
-</p>
 
 </td>
 
@@ -94,8 +93,8 @@ heatmaps, location insights, safety analysis and community reporting.
 <h3>💰 <a href="https://github.com/rahul7925/WalletIQ">WalletIQ</a></h3>
 
 <p>
-AI-powered personal finance manager with expense tracking, budgeting,
-analytics and intelligent financial insights.
+AI-powered personal finance manager with expense tracking,
+budgeting, analytics and intelligent financial insights.
 </p>
 
 <p>
@@ -105,13 +104,11 @@ analytics and intelligent financial insights.
 <code>SQLite</code>
 </p>
 
-<br>
+<br><br>
 
-<p style="white-space: nowrap;">
 <a href="https://github.com/rahul7925/WalletIQ">Repository</a>
 &nbsp; • &nbsp;
 <a href="https://walletiq-vert.vercel.app">Live Demo</a>
-</p>
 
 </td>
 
@@ -120,8 +117,8 @@ analytics and intelligent financial insights.
 <h3>🌍 AI Ticket Translator</h3>
 
 <p>
-Multilingual customer support platform with AI-powered ticket translation
-and intelligent response assistance.
+Multilingual customer support platform with AI-powered ticket
+translation and intelligent response assistance.
 </p>
 
 <p>
@@ -131,13 +128,11 @@ and intelligent response assistance.
 <code>Flask</code>
 </p>
 
-<br>
+<br><br>
 
-<p style="white-space: nowrap;">
 <a href="YOUR_TICKET_REPOSITORY_URL">Repository</a>
 &nbsp; • &nbsp;
 <a href="YOUR_TICKET_LIVE_DEMO_URL">Live Demo</a>
-</p>
 
 </td>
 
