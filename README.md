@@ -160,6 +160,8 @@ and intelligent response assistance.
 
 <br><br>
 
-<sub>Building software with purpose. &bull; &copy; Rahul S</sub>
+<div align="center">
+
+`Building software with purpose.`
 
 </div>
