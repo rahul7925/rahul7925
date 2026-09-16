@@ -61,9 +61,8 @@ scalable and user-centric applications.
 
 ## 🚀 Featured Projects
 
+<table>
 <tr>
-
-
 <td width="33%" height="280" valign="top">
 
 <h3>🛡️ SafeMap AI</h3>
