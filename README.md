@@ -26,7 +26,8 @@ scalable and user-centric applications.
 - 🎓 B.Tech in Information Technology
 - 🚀 Building real-world full-stack applications
 - 🤖 Exploring AI, ML and intelligent systems
-- ⚙️ Interested in backend engineering and scalable architecture
+- ⚙️ Passionate about creating responsive, user-friendly, and modern web applications
+- 📩 Let's connect and build impactful technology together!
 
 ---
 
@@ -159,6 +160,12 @@ and intelligent response assistance.
 </a>
 
 <br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
 
